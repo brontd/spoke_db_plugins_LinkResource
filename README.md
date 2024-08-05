@@ -8,8 +8,8 @@
 
 ### Source
 
-  [https://github.com/brontd/spoke_db_plugins_LinkResource/](https://github.com/brontd/spoke_db_plugins_LinkResource/)
+  [spoke_db_plugins_LinkResource/](https://github.com/brontd/spoke_db_plugins_LinkResource/)
 
 ### UK Library Customizations
 
-  None
+  None. This is a UK plugin.
