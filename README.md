@@ -2,8 +2,8 @@
 
 ## Info
 
-  An Omeka plugin that hotlinks URLs in the Identifier and Relation fields.
-  Create an external link reference from contents of specific fields.
+ Create an external link reference from contents of specific fields. An Omeka plugin that hotlinks URLs in the Identifier and Relation fields.
+ 
 
 ## Source
 
